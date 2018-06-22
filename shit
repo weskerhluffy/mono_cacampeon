@@ -1,0 +1,63 @@
+tiempo: Fri Jun 22 07:24:40 2018 536534; archivo: caca.c; funcion: heap_shit_insert; linea 1329; nivel: 5 caca 8====D insertado inicialmene libres id:10,filas:3 en 1
+tiempo: Fri Jun 22 07:24:40 2018 536725; archivo: caca.c; funcion: heap_shit_insert; linea 1329; nivel: 5 caca 8====D insertado inicialmene libres id:5,filas:3 en 2
+tiempo: Fri Jun 22 07:24:40 2018 536769; archivo: caca.c; funcion: heap_shit_push_up; linea 1212; nivel: 6 caca 8====D el padre de 2 es libres id:10,filas:3(1)
+tiempo: Fri Jun 22 07:24:40 2018 536810; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 7 caca 8====D comparando 5 con 10 r -5
+tiempo: Fri Jun 22 07:24:40 2018 536848; archivo: caca.c; funcion: heap_shit_insert; linea 1329; nivel: 5 caca 8====D insertado inicialmene libres id:2,filas:4 en 3
+tiempo: Fri Jun 22 07:24:40 2018 536878; archivo: caca.c; funcion: heap_shit_push_up; linea 1212; nivel: 6 caca 8====D el padre de 3 es libres id:10,filas:3(1)
+tiempo: Fri Jun 22 07:24:40 2018 536907; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 7 caca 8====D comparando 2 con 10 r -8
+tiempo: Fri Jun 22 07:24:40 2018 536938; archivo: caca.c; funcion: heap_shit_borrar_directo; linea 1478; nivel: 6 caca 8====D borrando llave libres id:10,filas:3 en idx 1 en idx hm 25342 con heap size 3
+tiempo: Fri Jun 22 07:24:40 2018 536992; archivo: caca.c; funcion: heap_shit_actualiza; linea 1353; nivel: 8 caca 8====D actualizando libres id:2,filas:4
+tiempo: Fri Jun 22 07:24:40 2018 537022; archivo: caca.c; funcion: heap_shit_actualiza; linea 1357; nivel: 8 caca 8====D libres id:2,filas:4 i su padre NADA
+tiempo: Fri Jun 22 07:24:40 2018 537051; archivo: caca.c; funcion: heap_shit_actualiza; linea 1370; nivel: 8 caca 8====D empujando abajo 0 0
+tiempo: Fri Jun 22 07:24:40 2018 537090; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 10 caca 8====D comparando 2 con 5 r -3
+tiempo: Fri Jun 22 07:24:40 2018 537125; archivo: caca.c; funcion: caca_main; linea 1593; nivel: 4 caca 8====D procesando 3 filas con libres 10
+tiempo: Fri Jun 22 07:24:40 2018 537161; archivo: caca.c; funcion: heap_shit_insert; linea 1329; nivel: 5 caca 8====D insertado inicialmene libres id:9,filas:3 en 3
+tiempo: Fri Jun 22 07:24:40 2018 537190; archivo: caca.c; funcion: heap_shit_push_up; linea 1212; nivel: 6 caca 8====D el padre de 3 es libres id:5,filas:3(1)
+tiempo: Fri Jun 22 07:24:40 2018 537219; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 7 caca 8====D comparando 9 con 5 r 4
+tiempo: Fri Jun 22 07:24:40 2018 537250; archivo: caca.c; funcion: heap_shit_push_up; linea 1232; nivel: 6 caca 8====D bajando libres id:5,filas:3 a 3
+tiempo: Fri Jun 22 07:24:40 2018 537280; archivo: caca.c; funcion: heap_shit_borrar_directo; linea 1478; nivel: 6 caca 8====D borrando llave libres id:9,filas:3 en idx 1 en idx hm 124089 con heap size 3
+tiempo: Fri Jun 22 07:24:40 2018 537311; archivo: caca.c; funcion: heap_shit_actualiza; linea 1353; nivel: 8 caca 8====D actualizando libres id:5,filas:3
+tiempo: Fri Jun 22 07:24:40 2018 537341; archivo: caca.c; funcion: heap_shit_actualiza; linea 1357; nivel: 8 caca 8====D libres id:5,filas:3 i su padre NADA
+tiempo: Fri Jun 22 07:24:40 2018 537369; archivo: caca.c; funcion: heap_shit_actualiza; linea 1370; nivel: 8 caca 8====D empujando abajo 0 0
+tiempo: Fri Jun 22 07:24:40 2018 537397; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 10 caca 8====D comparando 5 con 2 r 3
+tiempo: Fri Jun 22 07:24:40 2018 537427; archivo: caca.c; funcion: caca_main; linea 1593; nivel: 4 caca 8====D procesando 3 filas con libres 9
+tiempo: Fri Jun 22 07:24:40 2018 537462; archivo: caca.c; funcion: heap_shit_insert; linea 1329; nivel: 5 caca 8====D insertado inicialmene libres id:8,filas:3 en 3
+tiempo: Fri Jun 22 07:24:40 2018 537491; archivo: caca.c; funcion: heap_shit_push_up; linea 1212; nivel: 6 caca 8====D el padre de 3 es libres id:5,filas:3(1)
+tiempo: Fri Jun 22 07:24:40 2018 537520; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 7 caca 8====D comparando 8 con 5 r 3
+tiempo: Fri Jun 22 07:24:40 2018 537575; archivo: caca.c; funcion: heap_shit_push_up; linea 1232; nivel: 6 caca 8====D bajando libres id:5,filas:3 a 3
+tiempo: Fri Jun 22 07:24:40 2018 537606; archivo: caca.c; funcion: heap_shit_borrar_directo; linea 1478; nivel: 6 caca 8====D borrando llave libres id:8,filas:3 en idx 1 en idx hm 21639 con heap size 3
+tiempo: Fri Jun 22 07:24:40 2018 537637; archivo: caca.c; funcion: heap_shit_actualiza; linea 1353; nivel: 8 caca 8====D actualizando libres id:5,filas:3
+tiempo: Fri Jun 22 07:24:40 2018 537666; archivo: caca.c; funcion: heap_shit_actualiza; linea 1357; nivel: 8 caca 8====D libres id:5,filas:3 i su padre NADA
+tiempo: Fri Jun 22 07:24:40 2018 537695; archivo: caca.c; funcion: heap_shit_actualiza; linea 1370; nivel: 8 caca 8====D empujando abajo 0 0
+tiempo: Fri Jun 22 07:24:40 2018 537723; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 10 caca 8====D comparando 5 con 2 r 3
+tiempo: Fri Jun 22 07:24:40 2018 537752; archivo: caca.c; funcion: caca_main; linea 1593; nivel: 4 caca 8====D procesando 3 filas con libres 8
+tiempo: Fri Jun 22 07:24:40 2018 537787; archivo: caca.c; funcion: heap_shit_insert; linea 1329; nivel: 5 caca 8====D insertado inicialmene libres id:7,filas:3 en 3
+tiempo: Fri Jun 22 07:24:40 2018 537817; archivo: caca.c; funcion: heap_shit_push_up; linea 1212; nivel: 6 caca 8====D el padre de 3 es libres id:5,filas:3(1)
+tiempo: Fri Jun 22 07:24:40 2018 537846; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 7 caca 8====D comparando 7 con 5 r 2
+tiempo: Fri Jun 22 07:24:40 2018 537875; archivo: caca.c; funcion: heap_shit_push_up; linea 1232; nivel: 6 caca 8====D bajando libres id:5,filas:3 a 3
+tiempo: Fri Jun 22 07:24:40 2018 537905; archivo: caca.c; funcion: heap_shit_borrar_directo; linea 1478; nivel: 6 caca 8====D borrando llave libres id:7,filas:3 en idx 1 en idx hm 57578 con heap size 3
+tiempo: Fri Jun 22 07:24:40 2018 537936; archivo: caca.c; funcion: heap_shit_actualiza; linea 1353; nivel: 8 caca 8====D actualizando libres id:5,filas:3
+tiempo: Fri Jun 22 07:24:40 2018 537965; archivo: caca.c; funcion: heap_shit_actualiza; linea 1357; nivel: 8 caca 8====D libres id:5,filas:3 i su padre NADA
+tiempo: Fri Jun 22 07:24:40 2018 537994; archivo: caca.c; funcion: heap_shit_actualiza; linea 1370; nivel: 8 caca 8====D empujando abajo 0 0
+tiempo: Fri Jun 22 07:24:40 2018 538022; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 10 caca 8====D comparando 5 con 2 r 3
+tiempo: Fri Jun 22 07:24:40 2018 538051; archivo: caca.c; funcion: caca_main; linea 1593; nivel: 4 caca 8====D procesando 3 filas con libres 7
+tiempo: Fri Jun 22 07:24:40 2018 538086; archivo: caca.c; funcion: heap_shit_insert; linea 1329; nivel: 5 caca 8====D insertado inicialmene libres id:6,filas:3 en 3
+tiempo: Fri Jun 22 07:24:40 2018 538116; archivo: caca.c; funcion: heap_shit_push_up; linea 1212; nivel: 6 caca 8====D el padre de 3 es libres id:5,filas:3(1)
+tiempo: Fri Jun 22 07:24:40 2018 538145; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 7 caca 8====D comparando 6 con 5 r 1
+tiempo: Fri Jun 22 07:24:40 2018 538174; archivo: caca.c; funcion: heap_shit_push_up; linea 1232; nivel: 6 caca 8====D bajando libres id:5,filas:3 a 3
+tiempo: Fri Jun 22 07:24:40 2018 538204; archivo: caca.c; funcion: heap_shit_borrar_directo; linea 1478; nivel: 6 caca 8====D borrando llave libres id:6,filas:3 en idx 1 en idx hm 103702 con heap size 3
+tiempo: Fri Jun 22 07:24:40 2018 538235; archivo: caca.c; funcion: heap_shit_actualiza; linea 1353; nivel: 8 caca 8====D actualizando libres id:5,filas:3
+tiempo: Fri Jun 22 07:24:40 2018 538264; archivo: caca.c; funcion: heap_shit_actualiza; linea 1357; nivel: 8 caca 8====D libres id:5,filas:3 i su padre NADA
+tiempo: Fri Jun 22 07:24:40 2018 538293; archivo: caca.c; funcion: heap_shit_actualiza; linea 1370; nivel: 8 caca 8====D empujando abajo 0 0
+tiempo: Fri Jun 22 07:24:40 2018 538321; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 10 caca 8====D comparando 5 con 2 r 3
+tiempo: Fri Jun 22 07:24:40 2018 538350; archivo: caca.c; funcion: caca_main; linea 1593; nivel: 4 caca 8====D procesando 3 filas con libres 6
+tiempo: Fri Jun 22 07:24:40 2018 538403; archivo: caca.c; funcion: heap_shit_borrar_directo; linea 1478; nivel: 6 caca 8====D borrando llave libres id:5,filas:6 en idx 1 en idx hm 123581 con heap size 2
+tiempo: Fri Jun 22 07:24:40 2018 538435; archivo: caca.c; funcion: heap_shit_actualiza; linea 1353; nivel: 8 caca 8====D actualizando libres id:2,filas:4
+tiempo: Fri Jun 22 07:24:40 2018 538464; archivo: caca.c; funcion: heap_shit_actualiza; linea 1357; nivel: 8 caca 8====D libres id:2,filas:4 i su padre NADA
+tiempo: Fri Jun 22 07:24:40 2018 538492; archivo: caca.c; funcion: heap_shit_actualiza; linea 1370; nivel: 8 caca 8====D empujando abajo 0 0
+tiempo: Fri Jun 22 07:24:40 2018 538521; archivo: caca.c; funcion: caca_main; linea 1593; nivel: 4 caca 8====D procesando 6 filas con libres 5
+tiempo: Fri Jun 22 07:24:40 2018 538556; archivo: caca.c; funcion: heap_shit_insert; linea 1329; nivel: 5 caca 8====D insertado inicialmene libres id:4,filas:6 en 2
+tiempo: Fri Jun 22 07:24:40 2018 538586; archivo: caca.c; funcion: heap_shit_push_up; linea 1212; nivel: 6 caca 8====D el padre de 2 es libres id:2,filas:4(1)
+tiempo: Fri Jun 22 07:24:40 2018 538615; archivo: caca.c; funcion: caca_compara_prioridad; linea 1526; nivel: 7 caca 8====D comparando 4 con 2 r 2
+tiempo: Fri Jun 22 07:24:40 2018 538644; archivo: caca.c; funcion: heap_shit_push_up; linea 1232; nivel: 6 caca 8====D bajando libres id:2,filas:4 a 2
+145
